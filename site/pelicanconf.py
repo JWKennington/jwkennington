@@ -35,4 +35,4 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # Theme control
-# THEME = '/Users/jim/repos/collab/pelican-themes/nice-blog'
+THEME = '/Users/jim/repos/collab/jwk-theme'
