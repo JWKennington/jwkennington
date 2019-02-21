@@ -35,4 +35,4 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # Theme control
-THEME = '/Users/jim/repos/collab/jwk-theme'
+THEME = '/Users/jim/repos/professional/jwk-theme'
